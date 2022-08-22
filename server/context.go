@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/smallnest/rpcx/protocol"
-	"github.com/smallnest/rpcx/share"
+	"github.com/aggronmagi/rpcx/protocol"
+	"github.com/aggronmagi/rpcx/share"
 )
 
 // Context represents a rpcx FastCall context.

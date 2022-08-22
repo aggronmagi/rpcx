@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/juju/ratelimit"
-	"github.com/smallnest/rpcx/protocol"
-	"github.com/smallnest/rpcx/server"
+	"github.com/aggronmagi/rpcx/protocol"
+	"github.com/aggronmagi/rpcx/server"
 )
 
 // ReqRateLimitingPlugin can limit requests per unit time

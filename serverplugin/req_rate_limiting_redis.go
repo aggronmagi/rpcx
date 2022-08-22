@@ -6,8 +6,8 @@ import (
 
 	"github.com/go-redis/redis/v8"
 	"github.com/go-redis/redis_rate/v9"
-	"github.com/smallnest/rpcx/protocol"
-	"github.com/smallnest/rpcx/server"
+	"github.com/aggronmagi/rpcx/protocol"
+	"github.com/aggronmagi/rpcx/server"
 )
 
 var _ server.PostReadRequestPlugin = (*RedisRateLimitingPlugin)(nil)

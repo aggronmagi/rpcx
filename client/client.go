@@ -14,9 +14,9 @@ import (
 	"time"
 
 	circuit "github.com/rubyist/circuitbreaker"
-	"github.com/smallnest/rpcx/log"
-	"github.com/smallnest/rpcx/protocol"
-	"github.com/smallnest/rpcx/share"
+	"github.com/aggronmagi/rpcx/log"
+	"github.com/aggronmagi/rpcx/protocol"
+	"github.com/aggronmagi/rpcx/share"
 )
 
 const (
